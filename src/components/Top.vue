@@ -46,22 +46,26 @@ export default {
 </script>
 
 <style scoped>
-  .top{
+  .top {
     font-family: 'Bree Serif', serif;
     display: flex;
     width:430px;
   }
-  #top_contents{
+  #top_contents {
     margin-right: auto;
+    width:200px;
   }
-  #vueimage{
+  #vueimage {
     font-size:20px;
   }
   #goNext {
     color: black;
     font-size: 30px;
   }
-  #challengeMe{
+  #challengeMe {
     color: red;
+  }
+  #p_xssme{
+    word-wrap: break-word;
   }
 </style>

@@ -4,6 +4,7 @@
     <ul>
       <li><a href="http://morimolymoly.hateblo.jp/">Blog</a></li>
       <li><a href="https://github.com/moly333">GitHub</a></li>
+      <li><a href="https://moly333.github.io/nikki/">日記</a></li>
     </ul>
     <PageFooter></PageFooter>
   </div>

@@ -91,7 +91,8 @@
     "webpack-dev-server": "^3.10.3",
     "webpack-merge": "^4.2.2",
     "minimist": "^1.2.3",
-    "serialize-javascript": "^2.1.1"
+    "serialize-javascript": "^2.1.1",
+    "kind-of": ">=6.0.3"
   },
   "engines": {
     "node": ">= 6.0.0",

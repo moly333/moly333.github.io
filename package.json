@@ -41,10 +41,11 @@
     "autoprefixer": "^9.7.6",
     "babel-eslint": "^10.1.0",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
-    "babel-jest": "^23.4.2",
+    "babel-jest": "^25.3.0",
     "babel-loader": "^8.1.0",
     "babel-plugin-dynamic-import-node": "^2.3.0",
     "babel-plugin-transform-vue-jsx": "^3.7.0",
+    "braces": ">=2.3.1",
     "chalk": "^4.0.0",
     "chromedriver": "^81.0.0",
     "copy-webpack-plugin": "^5.1.1",
@@ -88,7 +89,9 @@
     "webpack": "^4.42.1",
     "webpack-bundle-analyzer": "^3.6.1",
     "webpack-dev-server": "^3.10.3",
-    "webpack-merge": "^4.2.2"
+    "webpack-merge": "^4.2.2",
+    "minimist": "^1.2.3",
+    "serialize-javascript": "^2.1.1"
   },
   "engines": {
     "node": ">= 6.0.0",
